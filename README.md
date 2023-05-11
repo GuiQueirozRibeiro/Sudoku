@@ -1,7 +1,7 @@
 Sudoku Jogo
 ==========
 
-![](https://e7.pngegg.com/pngimages/212/253/png-clipart-killer-sudoku-sudoku-numbers-puzzle-sudoku-pro-android-game-text.png)
+![](https://icons.veryicon.com/png/o/miscellaneous/learning-software/sudoku-2.png)
 
 # Indíce
 
