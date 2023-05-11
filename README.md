@@ -1,42 +1,42 @@
-Sudoku
+Sudoku Jogo
 ==========
 
 ![](https://e7.pngegg.com/pngimages/212/253/png-clipart-killer-sudoku-sudoku-numbers-puzzle-sudoku-pro-android-game-text.png)
 
-# Index
+# Indíce
 
-* [Index](#index)
-* [Project Status](#project-status)
-* [Project Description](#project-description)
-* [Access the Project](#-access-the-project)
-* [Project Features](#-project-features)
-* [Run the Project](#-run-the-project)
-* [Authors](#-authors)
+* [Indíce](#indíce)
+* [Status do Projeto](#status-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
+* [Executar o projeto](#-executar-o-projeto)
+* [Autores](#-autores)
 
-# Project Status
+# Status do Projeto
 
-![Badge Success](https://img.shields.io/badge/state-success-brightgreen?style=for-the-badge)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
-# Project Description
+# Descrição do Projeto
 
-This project was developed as part of a studing Python language. This provide a really good game and I learn new python librarys and functions.
+Este projeto foi desenvolvido como parte do estudo na linguagem Python. Ele oferece um jogo muito bom e eu aprendi novas bibliotecas e funções do Python com ele.
 
-# 📁 Access the Project
+# 📁 Acesso ao Projeto
 
-**Is found in Github: "https://github.com/GuiQueirozRibeiro/2048"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/Sudoku"**
 
-# 🔨 Project Features
+# 🔨 Funcionalidades do Projeto
 
-- `Feature 1`: Customize any difficult that you want
-- `Feature 2`: Complety the board and check if you win or not
+- `Funcionalidade 1`: customize e use a dificuldade que desejar
+- `Funcionalidade 2`: cheque se você acertou o tabuleirou ou não ao final de cada jogo
 
-# ▶ Run the Project
+# ▶ Executar o projeto
 
-- `To compile and run the programm, use a python interpreter, I Recommended the PyCharm`
+- `Para compilar e executar o programa, use um interpretador de Python, Eu recomendo o PyCharm.`
 
-# 👨‍💻 Authors
+# 👨‍💻 Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
-### End
+### Fim
