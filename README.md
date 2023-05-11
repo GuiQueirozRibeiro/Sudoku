@@ -1,7 +1,7 @@
 Sudoku
 ==========
 
-![](https://e7.pngegg.com/pngimages/212/253/png-clipart-killer-sudoku-sudoku-numbers-puzzle-sudoku-pro-android-game-text.png)
+![](https://icons.veryicon.com/png/o/miscellaneous/learning-software/sudoku-2.png)
 
 # Index
 
@@ -27,8 +27,8 @@ This project was developed as part of a studing Python language. This provide a 
 
 # 🔨 Project Features
 
-- `Feature 1`: Customize any difficult that you want
-- `Feature 2`: Complety the board and check if you win or not
+- `Feature 1`: customize any difficult that you want
+- `Feature 2`: complety the board and check if you win or not
 
 # ▶ Run the Project
 
