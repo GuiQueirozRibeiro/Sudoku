@@ -3,9 +3,9 @@ Sudoku Jogo
 
 ![](https://icons.veryicon.com/png/o/miscellaneous/learning-software/sudoku-2.png)
 
-# Indíce
+# Índíce
 
-* [Indíce](#indíce)
+* [Índíce](#índíce)
 * [Status do Projeto](#status-do-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#-acesso-ao-projeto)
